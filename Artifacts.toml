@@ -1,17 +1,17 @@
 [[FileUnv]]
 arch = "x86_64"
-git-tree-sha1 = "830ecc98a0b3c8eed369f454203e2f49d9f125ca"
+git-tree-sha1 = "c927460195eab91954307182d467f8803a15c1bb"
 libc = "glibc"
 os = "linux"
 
     [[FileUnv.download]]
-    sha256 = "29c06f0e69e6adefd5f4d1747c467a2d19f420cac7310119d9a49ac16033f89d"
-    url = "https://github.com/a-mikhaylov/FileUnv_jll.jl/releases/download/FileUnv-v1.0.3+0/FileUnv.v1.0.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "d8c2c1f28544b3720e9f910eb7f8cfa8b0b6954f863734d36758200594c4d568"
+    url = "https://github.com/a-mikhaylov/FileUnv_jll.jl/releases/download/FileUnv-v1.0.4+0/FileUnv.v1.0.4.x86_64-linux-gnu.tar.gz"
 [[FileUnv]]
 arch = "x86_64"
-git-tree-sha1 = "c2e9a8b1b45b1b8e8e31de6093e230057b14d8bc"
+git-tree-sha1 = "fd9c6fa3293ab72832c77bd367ea210c3677d4b3"
 os = "windows"
 
     [[FileUnv.download]]
-    sha256 = "d49b978ab5b7718274cb52883027a0a311dbc7737794beaaecc662a0e5e662a4"
-    url = "https://github.com/a-mikhaylov/FileUnv_jll.jl/releases/download/FileUnv-v1.0.3+0/FileUnv.v1.0.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "cccad69085c9f5ae6473dfeaa6e3f7db1f805ace881b873b2e5322a7a27faa45"
+    url = "https://github.com/a-mikhaylov/FileUnv_jll.jl/releases/download/FileUnv-v1.0.4+0/FileUnv.v1.0.4.x86_64-w64-mingw32.tar.gz"
